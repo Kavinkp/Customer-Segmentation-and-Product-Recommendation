@@ -23,7 +23,6 @@ The goal is to understand customer behavior, identify meaningful groups (cluster
   - Quantity, UnitPrice – Purchase details  
   - Transaction_Status – Marked as Completed or Cancelled  
 
-*(Note: Dataset not uploaded here due to size/privacy)*
 
 ## Key Steps
 1. **Data Cleaning**
