@@ -49,7 +49,6 @@ The goal is to understand customer behavior, identify meaningful groups (cluster
 - Missing value percentages (barh chart)  
 - Elbow plot and silhouette scores (via Yellowbrick)  
 - Cluster visualizations (2D PCA plots)  
-- Product recommendation heatmaps  
 
 ## Results
 - Customers were segmented into distinct clusters (e.g., high-value, discount-seeking, occasional buyers).  
